@@ -11,6 +11,7 @@
   inputs.src-colorsys-master.ref   = "refs/heads/master";
   inputs.src-colorsys-master.owner = "achesak";
   inputs.src-colorsys-master.repo  = "nim-colorsys";
+  inputs.src-colorsys-master.dir   = "";
   inputs.src-colorsys-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
