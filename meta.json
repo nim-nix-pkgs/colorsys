@@ -7,7 +7,7 @@
   "license": "MIT",
   "web": "https://github.com/achesak/nim-colorsys",
   "refs": [
-    "fatal: unable to access 'https://github.com/achesak/nim-colorsys/': HTTP/2 stream 1 was not closed cleanly before end of the underlying stream",
+    "fatal: unable to access 'https://github.com/achesak/nim-colorsys/': SSL connection timeout",
     ""
   ],
   "heads": []
