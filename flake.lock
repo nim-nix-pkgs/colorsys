@@ -12,11 +12,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1651555323,
-        "narHash": "sha256-mhf6cPWSBQ5EIYYg9Aye/A7mz1F23n4L8N2JI7HnsEk=",
+        "lastModified": 1652367037,
+        "narHash": "sha256-W8mGXE6oOKBsnOojnT74bD88UoyPu9NAVQQUqWQshWY=",
         "owner": "nim-nix-pkgs",
         "repo": "colorsys",
-        "rev": "2784b78891fdabe4e2b687218effbe6ade25dfa5",
+        "rev": "9e112f756e1b49fd8a5c868c63fdce10b8e0a894",
         "type": "github"
       },
       "original": {
