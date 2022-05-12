@@ -7,8 +7,37 @@
   "license": "MIT",
   "web": "https://github.com/achesak/nim-colorsys",
   "refs": [
-    "fatal: unable to access 'https://github.com/achesak/nim-colorsys/': SSL connection timeout",
+    "refs/heads/master",
     ""
   ],
-  "heads": []
+  "heads": [
+    {
+      "name": "colorsys",
+      "version": "0.2",
+      "author": "Adam Chesak",
+      "desc": "Convert between RGB, YIQ, HLS, and HSV color systems.",
+      "license": "MIT",
+      "skipDirs": [],
+      "skipFiles": [],
+      "skipExt": [],
+      "installDirs": [],
+      "installFiles": [],
+      "installExt": [],
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 0.13",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.13"
+          }
+        }
+      ],
+      "bin": [],
+      "binDir": "",
+      "srcDir": "",
+      "backend": "c",
+      "ref": "refs/heads/master"
+    }
+  ]
 }
