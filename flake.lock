@@ -12,11 +12,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1660781861,
-        "narHash": "sha256-N8Pg7ELP7vwGKl6vra8adpJPPN3ftKDeACkqoTnii7I=",
+        "lastModified": 1661565366,
+        "narHash": "sha256-7Uk5znx18pZ14OXA3gubePtNT5dizeF/9Im+0TS+ep0=",
         "owner": "nim-nix-pkgs",
         "repo": "colorsys",
-        "rev": "7db4a08c1b9aeb04b7408e333ec60eae13121b5d",
+        "rev": "5480cccd06f4c2a647e413b6a9a3227b955d4171",
         "type": "github"
       },
       "original": {
@@ -51,8 +51,8 @@
     "nixpkgs": {
       "locked": {
         "lastModified": 0,
-        "narHash": "sha256-BBeCZwZImtjP3oYy4WogkQYy5OxNyfNciVSc1AfZgLQ=",
-        "path": "/nix/store/z8fi1f38y14lmsyhnph1l98qr3r9x7wr-source",
+        "narHash": "sha256-19Ib1b7Ny+yGhnxwnH1KhhB2hvALuNuqevA6XzqkQmo=",
+        "path": "/nix/store/5mdm97ryfgnsh02h7jiragdmcgh6vbvp-source",
         "type": "path"
       },
       "original": {
